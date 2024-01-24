@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest an idea for this project
 title: "[Feature]: "
-labels: : "기능", "이슈"
+labels: : "기능"
 body:
   - type: markdown
     attributes:
@@ -12,17 +12,5 @@ body:
     attributes:
       label: 기능
       description: 어떤 기능인가요?
-    validations:
-      required: false
-body:
-  - type: markdown
-    attributes:
-      value: |
-          이슈를 작성해 주세요.
-  - type: textarea
-    id: context
-    attributes:
-      label: 이슈
-      description: 어떤 이슈인가요?
     validations:
       required: false
