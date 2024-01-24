@@ -14,3 +14,17 @@ body:
       description: 어떤 기능인가요?
     validations:
       required: false
+
+labels: "이슈"
+body:
+  - type: markdown
+    attributes:
+      value: |
+          이슈를 작성해 주세요.
+  - type: textarea
+    id: context
+    attributes:
+      label: 이슈
+      description: 어떤 이슈인가요?
+    validations:
+      required: false
