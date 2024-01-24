@@ -1,6 +1,7 @@
 name: Feature request
 description: Suggest an idea for this project
 title: "[Feature]: "
+label: "기능"
 body:
   - type: textarea
     id: context
