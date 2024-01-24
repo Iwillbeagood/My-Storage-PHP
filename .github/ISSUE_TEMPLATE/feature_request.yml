@@ -1,5 +1,5 @@
-name: Feature request
-description: Suggest an idea for this project
+name: Feature request Template
+description: 기능, UI 개선 및 추가 요청을 위한 템플릿입니다.
 title: "[Feature]: "
 labels: "기능"
 body:
