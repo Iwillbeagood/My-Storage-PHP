@@ -1,5 +1,5 @@
-name: Bug Report
-description: 버그를 리포트하기 위한 템플릿입니다.
+ name: Bug Report
+description: 버그 리포트를 위한 템플릿입니다.
 title: "[Bug]: "
 labels: "버그"
 body:
